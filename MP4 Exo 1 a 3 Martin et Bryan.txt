@@ -1,0 +1,12 @@
+Exercice 1 :La définition d’une image correspond à sa dimension, exprimée en pixels.
+
+            La résolution d'une image est le nombre de pixels par pouce qu'elle contient.
+
+            La profondeur de couleur utilise comme mesure le bits par pixel et permet d'augmenter la palette de couleur par nombres de bits supplémentaires. 
+            Par exemple une image sur 1 bits sera moins belle qu'une image sur 8 bits.
+
+Exercice 2 : Si on considére que la hauteur est de 19,8 cm pour 5000 pixels et la longueur de 29,7 pour 6000 pixels alors la résolution de cette image en pixels par cm 
+est d'environ 251 pixels par cm et d'environ 641 pixels par pouce.
+
+
+Exercice 3 : La définition minimale d'une photo sur un papier photo de 10cmX15cm est d'environ 1771 pixels. 300*15/2.54
